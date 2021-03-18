@@ -1,5 +1,5 @@
-# 100-yard-swim-pace (JAVA)
-# User can input a swim yardage and time. Outputs the necessary 100 yard swim time required to reach yardage in applicable time.
+# 100-yard-swim-pace
+# (JAVA) User can input a swim yardage and time. Outputs the necessary 100 yard swim time required to reach yardage in applicable time.
 
 import java.util.Scanner;
 public class findSpeed {
